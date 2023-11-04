@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632678589546",
+    "project_id": "notecrud-f4761",
+    "storage_bucket": "notecrud-f4761.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632678589546:android:433fb78428a61517b75613",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qArb1YfzX2pW96x1J4NYRRkvieMGL1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
